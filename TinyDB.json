@@ -1,8 +1,24 @@
 {
-    "questions" : [
+    "questions": [
         {
-            "question" : "Hello !",
-            "answer" : "hey there!"
+            "question": "hello!",
+            "answer": "hey there!"
+        },
+        {
+            "question": "How are you?",
+            "answer": "Fine, thanks for asking"
+        },
+        {
+            "question": "what is the capital of italy?",
+            "answer": "Rome"
+        },
+        {
+            "question": "do you know my bestfriend?",
+            "answer": "No, can you present him to me"
+        },
+        {
+            "question": "my friend's name is patto, welcome him",
+            "answer": "Hello patto nice to meet you!"
         }
     ]
 }
